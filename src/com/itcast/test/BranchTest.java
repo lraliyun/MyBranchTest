@@ -2,6 +2,6 @@ package com.itcast.test;
 
 public class BranchTest {
     public static void main(String[] args) {
-        System.out.println("主分支，不允许在上面操作");
+        System.out.println("我是令狐冲，我在分支上操作");
     }
 }
